@@ -1,0 +1,5 @@
+commonAnnotations:
+  policy.open-cluster-management.io/standards: ISO 27001
+resources:
+  - A.18.1.Compliance-with-Legal-and-Contractual-Requirements
+  - A.9.4-System-and-Application-Access-Control

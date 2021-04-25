@@ -1,0 +1,5 @@
+commonAnnotations:
+  policy.open-cluster-management.io/categories: SC System and Communications Protection
+resources:
+  - SC-28-Protection-Of-Information-At-Rest
+  - SC-4-Information-In-Shared-Resources

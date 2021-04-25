@@ -1,0 +1,6 @@
+commonAnnotations:
+  policy.open-cluster-management.io/controls: SC-4 Information in Shared Resources
+  policy.open-cluster-management.io/categories: SC System and Communications Protection
+  policy.open-cluster-management.io/standards: NIST SP 800-53
+resources:
+  - ../../../../stable/SC-System-and-Communications-Protection/SC-4-Information-In-Shared-Resources

@@ -1,0 +1,4 @@
+commonAnnotations:
+  policy.open-cluster-management.io/controls: A.18.1.3 Protection of Records
+resources:
+  - ../../../../stable/SC-System-and-Communications-Protection/SC-28-Protection-Of-Information-At-Rest

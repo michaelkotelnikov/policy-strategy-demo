@@ -1,0 +1,4 @@
+commonAnnotations:
+  policy.open-cluster-management.io/categories: A.9.4 System and Application Access Control
+resources:
+  - A.9.4.1-Information-Access-Restriction

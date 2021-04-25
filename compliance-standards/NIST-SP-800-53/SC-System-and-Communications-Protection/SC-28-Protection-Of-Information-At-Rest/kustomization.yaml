@@ -1,0 +1,4 @@
+commonAnnotations:
+  policy.open-cluster-management.io/controls: SC-28 Protection Of Information At Rest
+resources:
+  - ../../../../stable/SC-System-and-Communications-Protection/SC-28-Protection-Of-Information-At-Rest

@@ -1,0 +1,4 @@
+commonAnnotations:
+  policy.open-cluster-management.io/controls: A.9.4.1 Information Access Restriction
+resources:
+  - ../../../../stable/SC-System-and-Communications-Protection/SC-4-Information-In-Shared-Resources

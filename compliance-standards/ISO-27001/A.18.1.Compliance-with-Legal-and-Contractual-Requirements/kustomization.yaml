@@ -1,0 +1,4 @@
+commonAnnotations:
+  policy.open-cluster-management.io/categories: A.18.1 Compliance with Legal and Contractual Requirements
+resources:
+  - A.18.1.3-Protection-of-Records
